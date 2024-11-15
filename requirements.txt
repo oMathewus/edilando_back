@@ -1,0 +1,7 @@
+Flask==2.1.2
+requests==2.26.0
+twocaptcha==0.0.1
+beautifulsoup4==4.11.
+gunicorn
+Werkzeug==2.0.3
+flask-cors
