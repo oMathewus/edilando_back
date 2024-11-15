@@ -4,4 +4,4 @@ twocaptcha==0.0.1
 beautifulsoup4==4.11.
 gunicorn
 Werkzeug==2.0.3
-flask-cors
+2captcha-python==1.1.3
